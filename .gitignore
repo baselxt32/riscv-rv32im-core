@@ -1,0 +1,9 @@
+
+obj_dir/
+build/
+*.vcd
+*.fst
+*.o
+*.log
+.DS_Store
+
